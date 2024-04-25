@@ -1,0 +1,12 @@
+numpy
+torch
+torchvision
+transformers
+diffusers
+accelerate
+rasterio
+matplotlib
+seaborn
+scikit-learn
+tqdm
+wandb
